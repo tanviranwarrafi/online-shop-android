@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_myShop"
+            android:icon="@mipmap/shop"
+            android:title="My Mall"/>
+        <item
+            android:id="@+id/nav_myOrders"
+            android:icon="@mipmap/order"
+            android:title="My orders"/>
+        <item
+            android:id="@+id/nav_myRewords"
+            android:icon="@mipmap/rewards"
+            android:title="My Rewards" />
+        <item
+            android:id="@+id/nav_mycart"
+            android:icon="@mipmap/shopping_cart"
+            android:title="My Cart"  />
+        <item
+            android:id="@+id/nav_myWishlist"
+            android:icon="@mipmap/wishlist"
+            android:title="My WishList"/>
+        <item
+            android:id="@+id/nav_myAccount"
+            android:icon="@mipmap/user"
+            android:title="My Account"/>
+    </group>
+
+    <item
+        android:id="@+id/nav_signOut"
+        android:icon="@mipmap/sign_out"
+        android:title="Sign Out"/>
+
+    <!--<item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/menu_share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/menu_send" />
+        </menu>
+    </item>-->
+
+</menu>

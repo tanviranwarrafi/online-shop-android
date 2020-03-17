@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1081377127306",
+    "firebase_url": "https://online-shop-b985a.firebaseio.com",
+    "project_id": "online-shop-b985a",
+    "storage_bucket": "online-shop-b985a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081377127306:android:d06f80835538eaeb826673",
+        "android_client_info": {
+          "package_name": "com.example.onlineshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081377127306-nqbtb054i9dt2jdr0ldmfkpatq9cruqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsW586PdtFKY7sNHmL6-XwS4IPyzdYJ6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081377127306-nqbtb054i9dt2jdr0ldmfkpatq9cruqr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
